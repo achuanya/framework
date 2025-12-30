@@ -2,7 +2,7 @@
   <p>
     <a href="https://mct.lhasa.icu" target="_blank">
       <picture>
-        <img alt="Mail Comment Templates" src="https://raw.githubusercontent.com/achuanya/framework/HEAD/.github/media/logo200x200.svg" width="300" height="225" style="max-width: 100%;">
+        <img alt="Mail Comment Templates" src="https://raw.githubusercontent.com/achuanya/framework/HEAD/.github/media/logo200x200.svg">
       </picture>
     </a>
   </p>
