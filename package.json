@@ -1,7 +1,7 @@
 {
   "name": "@lhasa/framework",
   "version": "0.1.0",
-  "description": "The @maizzle/framework branch: Core framework for Mail Comment Templates.",
+  "description": "The @maizzle/framework branch: Core framework for Postcard Mail.",
   "license": "MIT",
   "type": "module",
   "exports": {
